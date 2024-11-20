@@ -14,7 +14,7 @@ Passionate about creating impactful software, I specialize in full-stack develop
 
 - 🌐 **My Resume**
     - [ATS-Compatible CV (English Version)](https://github.com/SyrineZahar/SyrineZahar/blob/main/Cyrine_Zahar_ATS_friendly_English.pdf)
-    - [ATS-Compatible CV (French Version)](https://github.com/SyrineZahar/SyrineZahar/blob/main/CV_francais_ATS.pdf.pdf)
+    - [ATS-Compatible CV (French Version)](https://github.com/SyrineZahar/SyrineZahar/blob/main/CV_francais_ATS.pdf)
 
 ---
 
