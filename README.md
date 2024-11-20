@@ -14,26 +14,19 @@ Passionate about creating impactful software, I specialize in full-stack develop
 ---
 ## 🔧 Skills
 
-## 💻 Programming Languages
-- HTML | CSS | Java | JavaScript | TypeScript | PHP | Python | Dart 
+- 💻 ** Programming Languages**: HTML | CSS | Java | JavaScript | TypeScript | PHP | Python | Dart 
  
-## 📱 Mobile Development
-- Android Studio (Java) | Flutter (Dart)
+- 📱 **Mobile Development**: Android Studio (Java) | Flutter (Dart)
 
-## 🌐 Web Frameworks & Libraries
-- Angular | Angular Material | React | Node.js | Spring Boot | Django | Symfony | Bootstrap
+- 🌐 **Web Frameworks & Libraries** : Angular | Angular Material | React | Node.js | Spring Boot | Django | Symfony | Bootstrap
 
-## 🗄️ Database Management
-- MySQL | Oracle | PostgreSQL | MongoDB
+- 🗄️ **Database Management** : MySQL | Oracle | PostgreSQL | MongoDB
 
-## 🎨 Design & Prototyping</b><br>
-- Figma | UI/UX Principles
+- 🎨 **Design & Prototyping** : Figma | UI/UX Principles
 
-## 📚 Conceptual Knowledge
-- UML | Scrum | Algorithmics | Software Development Life Cycle
-
-## 💼 Soft Skills</b><br>
-- Team Collaboration | Time Management | Problem Solving | Adaptability
+-  📚 **Conceptual Knowledge** : UML (Unified Modeling Language) | Scrum | Algorithmics | Software Development Life Cycle
+  
+-  💼 **Soft Skills** : Team Collaboration | Time Management | Problem Solving | Adaptability
 
 ---
 
