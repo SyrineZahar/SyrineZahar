@@ -42,7 +42,7 @@ Passionate about creating impactful software, I specialize in full-stack develop
 
 # 📊 GitHub Stats:
 ![SyrineZahar's Stats](https://github-readme-stats.vercel.app/api?username=SyrineZahar&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![SyrineZahar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyrineZahar&theme=dracula&hide_border=true)
 ![SyrineZahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyrineZahar&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-![SyrineZahar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyrineZahar&theme=dracula&hide_border=false)
 ---
 
