@@ -13,6 +13,15 @@ Passionate about creating impactful software, I specialize in full-stack develop
 - 📱 Social:
  [LinkedIn](https://www.linkedin.com/in/cyrine-zahar-286314249/)
 
+
+---
+
+## 🌱 Active in My Community
+
+- **General Secretary** at [Google Club ISET Charguia](https://www.facebook.com/isetch.google.club/)  
+- **Student Entrepreneur** at [Pôle Étudiant Entrepreneur de Carthage](https://ucar.rnu.tn/peec/)
+- **Vice President** at [Securinets ISET Charguia](https://www.linkedin.com/company/securinets-iset-charguia/posts/?feedView=all)
+
 ---
 ## 🔧 Skills
 
