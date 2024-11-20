@@ -14,7 +14,7 @@ Passionate about creating impactful software, I specialize in full-stack develop
 ---
 ## 🔧 Skills
 
-- 💻 ** Programming Languages**: HTML | CSS | Java | JavaScript | TypeScript | PHP | Python | Dart 
+- 💻 **Programming Languages**: HTML | CSS | Java | JavaScript | TypeScript | PHP | Python | Dart 
  
 - 📱 **Mobile Development**: Android Studio (Java) | Flutter (Dart)
 
