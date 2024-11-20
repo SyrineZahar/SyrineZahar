@@ -18,8 +18,8 @@ Passionate about creating impactful software, I specialize in full-stack develop
 ## 🌱 Active in My Community
 
 - **Student Entrepreneur** at [Pôle Étudiant Entrepreneur de Carthage](https://ucar.rnu.tn/peec/)
-- **Was General Secretary** at [Google Club ISET Charguia](https://www.facebook.com/isetch.google.club/)
-- **Was Vice President** at [Securinets ISET Charguia](https://www.linkedin.com/company/securinets-iset-charguia/posts/?feedView=all)
+- **Former General Secretary** at [Google Club ISET Charguia](https://www.facebook.com/isetch.google.club/)
+- **Former Vice President** at [Securinets ISET Charguia](https://www.linkedin.com/company/securinets-iset-charguia/posts/?feedView=all)
 
 ---
 
