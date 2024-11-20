@@ -9,7 +9,7 @@
 Passionate about creating impactful software, I specialize in full-stack development. I thrive on building user-centric applications that solve real-world problems while continuously learning and exploring new technologies.
 
 ## 🌐 Connect with Me
-- 📫 Email: [cyrine.zahaar@gmail.com](mailto:cyrine.zahaar@gmail.com)  
+- 📫 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:cyrine.zahaar@gmail.com)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrine-zahar-286314249/)
 
 ---
