@@ -47,3 +47,6 @@ Passionate about creating impactful software, I specialize in full-stack develop
 ![SyrineZahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyrineZahar&theme=radical&show_icons=true&hide_border=false&layout=compact)
 ---
 
+# GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=SyrineZahar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
